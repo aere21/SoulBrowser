@@ -82,7 +82,7 @@
     <string name="down_skip_pixel">1像素圖片</string>
     <string name="image_split">拆分圖片</string>
     <string name="move_to">去哪裡</string>
-    <string name="skip">跳躍</string>
+    <string name="skip">跳過</string>
     <string name="overwrite">覆蓋</string>
     <string name="new_tab">新分頁</string>
     <string name="new_secret_tab">新的無痕式分頁</string>
@@ -102,7 +102,7 @@
     <string name="app_block_info">阻止網站運行其他應用程序</string>
     <string name="app_block_noti">該網站正在嘗試運行另一個應用程序</string>
     <string name="link">鏈接</string>
-    <string name="open_url">熱</string>
+    <string name="open_url">開啟</string>
     <string name="new_url">新分頁</string>
     <string name="back_url">背景分頁</string>
     <string name="copy_url">複製網址</string>
@@ -132,7 +132,7 @@
     <string name="undelete">取消刪除</string>
     <string name="close">關閉</string>
     <string name="app_exit">退出應用</string>
-    <string name="open">熱</string>
+    <string name="open">開啟</string>
     <string name="image_fail">無法加載圖片</string>
     <string name="time_h">小時</string>
     <string name="time_m">分</string>
@@ -145,9 +145,9 @@
     <string name="password_info">分別在普通模式和隱身模式下存儲密碼</string>
     <string name="password_lock">請先設置鎖定螢幕\n這是為了保護您的隱私</string>
     <string name="password_reset_guide">重置將清除與密碼關聯的所有數據</string>
-    <string name="canceling">取消&#8230;</string>
-    <string name="checking">登記&#8230;</string>
-    <string name="finishing">精加工&#160;</string>
+    <string name="canceling">取消中&#8230;</string>
+    <string name="checking">檢查中&#8230;</string>
+    <string name="finishing">整理&#160;</string>
     <string name="show_detail">了解更多</string>
     <string name="show_single">查看標題行</string>
     <string name="show_recent">顯示最近的文件</string>
@@ -170,10 +170,10 @@
     <string name="order_by">順序</string>
     <string name="order_ascend">升序</string>
     <string name="order_descend">降序</string>
-    <string name="google">Google</string>
+    <string name="google">谷歌</string>
     <string name="bing">Bing</string>
-    <string name="yahoo">Yahoo</string>
-    <string name="baidu">Baidu</string>
+    <string name="yahoo">雅虎</string>
+    <string name="baidu">百度</string>
     <string name="yandex">Yandex</string>
     <string name="naver">Naver</string>
     <string name="daum">Daum</string>
@@ -199,9 +199,9 @@
     <string name="artist">歌手</string>
     <string name="album">相簿</string>
     <string name="genre">類型</string>
-    <string name="duration">玩時間</string>
+    <string name="duration">持續時間</string>
     <string name="size">大小</string>
-    <string name="resolution">決議</string>
+    <string name="resolution">解析度</string>
     <string name="quality">質量</string>
     <string name="modified">水晶</string>
     <string name="url">URL</string>
