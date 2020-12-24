@@ -268,12 +268,12 @@
     <string name="name">名稱</string>
     <string name="input_name">輸入名稱</string>
     <string name="long_name">名字太長了</string>
-    <string name="image_type">圖片濾鏡</string>
+    <string name="image_type">圖片類型</string>
     <string name="others">其他</string>
     <string name="not_supported">不支持</string>
     <string name="apps_none">沒有安裝可以執行此功能的應用程序</string>
     <string name="right_title">版權</string>
-    <string name="guide_right_1">始終牢記版權</string>
+    <string name="guide_right_1">始終緊記版權</string>
     <string name="guide_right_2">未經版權所有者同意，使用受版權保護的作品是侵犯版權的行為。 您應對所有侵犯版權負責。</string>
     <string name="guide_right_3">如果您對版權有任何疑問， 請與該網站聯繫。</string>
     <string name="set_wallpaper">設置壁紙</string>
@@ -432,7 +432,7 @@
     <string name="quick_access">快捷方式</string>
     <string name="add_folder">新增資料夾</string>
     <string name="add_current">新增當前頁面</string>
-    <string name="history_time">保留期</string>
+    <string name="history_time">保留時間</string>
     <string name="history_zero">不保存</string>
     <string name="history_1week">1個星期</string>
     <string name="history_1mon">1個月</string>
